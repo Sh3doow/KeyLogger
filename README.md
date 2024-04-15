@@ -7,8 +7,7 @@
 
       pip install -r requeriments.txt
 
-<hr>
- 
+
 # Disclaimer
 
 <p>Don't use this for illegal purposes, don't forget that hacking is a crime and can be subject to punishment and even imprisonment</p>
