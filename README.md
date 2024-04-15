@@ -1,5 +1,5 @@
 # Keylogger
-<hr>
+
 <h2>Introduction</h2>
 <p>Keylogger is a keystroke recorder and can be used for many situations, in this particular case this keylogger records the keystrokes and sends them to a specific email</p>
 
