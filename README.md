@@ -5,7 +5,7 @@
 
 <h2>Installation</h2>
 
-      pip install -r requeriments.txt
+    pip install -r requeriments.txt
 
 
 # Disclaimer
